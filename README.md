@@ -1,3 +1,5 @@
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&link=https://www.linkedin.com/in/jhonatanmarques/)](https://www.linkedin.com/in/jhonatanmarques/)
+
 # Projeto de insights da empresa House Rocket
 <img src="https://github.com/jhonatanmarques92/house_rocket_insight_project/blob/main/img/House-For-Sale.jpg" width="300" height="300">
 
